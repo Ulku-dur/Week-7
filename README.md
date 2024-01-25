@@ -29,4 +29,4 @@ Execute the Main.java class to initiate the application.
 Using the Application:
 Upon launching the application, you'll encounter a user-friendly interface facilitating the management of cars, brands, models, and other critical data.
 Users have the capability to carry out car rentals and various other operations.
-Note: This version of the Car Rental System has been configured to work seamlessly with MySQL, providing a robust and efficient solution for your car rental needs.
+Note: This version of the Car Rental System has been configured to work seamlessly with MySQL.
