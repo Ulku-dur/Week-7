@@ -9,9 +9,13 @@ Project Structure:
 The project is organized into distinct packages to enhance modularity and clarity:
 
 1- Business: This package orchestrates essential business logic operations.
+
 2- Core: Comprising fundamental utility classes, this package supports the application's core functionalities.
+
 3- Dao: Responsible for executing database operations.
+
 4- Entity: Housing classes that represent database tables.
+
 Technologies Utilized:
 
 Java: The primary programming language employed in the application.
